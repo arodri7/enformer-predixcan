@@ -87,3 +87,9 @@ Ran 1 test in 9.219s
 
 OK
 ```
+
+## Running Saideep's application
+
+Need to download several reference files:
+- [hg19](http://hgdownload.cse.ucsc.edu/goldenpath/hg19/bigZips/hg19.fa.gz)
+- 
