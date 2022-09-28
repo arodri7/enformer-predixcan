@@ -1,6 +1,6 @@
 # Enformer - Predixcan on Summit OLCF
 
-Goal is to install and have running Enformer and Predixcan version on the Summit machines.
+Goal is to install and have running [Enformer](https://github.com/deepmind/deepmind-research/tree/master/enformer) and Predixcan version on the Summit machines.
 
 
 Since installing things like PyTorch, tensorflow, etc. on Summit is extremely complicated to install, OLCF provides common ML/DL libraries in an OpenCE Anaconda environment. 
