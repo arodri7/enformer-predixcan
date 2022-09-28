@@ -30,7 +30,7 @@ To install the remainder packages for Enformer:
 ```
 pip install dm-sonnet==2.0.0
 pip install kipoiseq==0.5.2
-pip install ensorflow-hub==0.11.0
+pip install tensorflow-hub==0.11.0
 ```
 
 You will need to clone [deepmind's](https://github.com/deepmind/deepmind-research.git) repository:
